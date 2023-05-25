@@ -1,0 +1,3 @@
+[submodule "testeAraujoFontes/frontend"]
+	path = testeAraujoFontes/frontend
+	url = https://github.com/danielrodriguesdnl/testearaujofontes
